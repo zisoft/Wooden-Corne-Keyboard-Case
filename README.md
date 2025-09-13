@@ -38,14 +38,14 @@ Template for the inner contour
 ## Routing the cases
 Mount the wood blank with double-sided tape on a piece of scrapwood. This is required to protect your workbench because the outer contour needs to be cut all the way through the wood. Make sure the tape covers enough area. After routing the outer contour both pieces must still be fixed in their positions on the scrap wood!
 
-Screw the template for the outer contour on the wood. It is imported to use short screws here, they must not stick out through the bottom of the blank! Don't worry about the screw holes, they will be removed later when we route out the inner contour.
+Screw the template for the outer contour on the wood. It is important to use short screws here, they must not stick out through the bottom of the blank! Don't worry about the screw holes, they will be removed later when we route out the inner contour.
 
 Mount the 17mm copying ring on the router as as well as the 4mm router bit. Then carefully follow the outer contour of the template. Use several passes, increase the cutting depth slightly between them.
 
 ![](./images/routing_outer_contour.jpeg)
 Routing the outer contour
 
-Don't unscrew the template! We first need to carefully position the big template for the inner contour. It needs to have an equal distance of 8mm to all edges of the small template. This is easiest to be done by using the shaft of an 8mm drill bit. Place the big template on the wood blank and use the drill bit to align it by holding it between the two templates. If all fits well, screw the template on the blank. You can now unscrew the small template.
+Don't unscrew the template! We first need to carefully position the big template for the inner contour. It needs to have an equal distance of 8mm to all edges of the small template. This is easiest to be done by using the shaft of an 8mm drill bit. Place the big template on the wood blank and align it by holding the drill bit shaft between the two templates. If all fits well, screw the template on the blank. You can now unscrew the small template.
 
 Set the depth stop of your router so that there will be 3mm thickness left for the bottom. Carefully route out the inner contour.
 
