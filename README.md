@@ -45,9 +45,9 @@ Mount the 17mm copying ring on the router as as well as the 4mm router bit. Then
 ![](./images/routing_outer_contour.jpeg)
 Routing the outer contour
 
-Don't unscrew the template! We first need to carefully position the big template for the inner contour. It needs to have an equal distance of 8mm to all edges of the small template. This is easiest to be done by using the shaft of an 9mm drill bit. Place the big template on the wood blank and align it by holding the drill bit shaft between the two templates. If all fits well, screw the template on the blank. You can now unscrew the small template.
+Don't unscrew the template! We first need to carefully position the big template for the inner contour. It needs to have an equal distance of 9mm to all edges of the small template. This is easiest to be done by using the shaft of an 9mm drill bit. Place the big template on the wood blank and align it by holding the drill bit shaft between the two templates. If all fits well, screw the template on the blank. You can now unscrew the small template.
 
-Set the depth stop of your router so that there will be 3mm thickness left for the bottom. Carefully route out the inner contour.
+Set the depth stop of your router so that there will be 3mm thickness left for the bottom. Carefully route out the inner contour by removing all the material.
 
 ![](./images/routing_inner_contour.jpeg)
 Routing the inner contour
