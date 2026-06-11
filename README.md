@@ -45,7 +45,7 @@ Mount the 17mm copying ring on the router as as well as the 4mm router bit. Then
 ![](./images/routing_outer_contour.jpeg)
 Routing the outer contour
 
-Don't unscrew the template! We first need to carefully position the big template for the inner contour. It needs to have an equal distance of 9mm to all edges of the small template. This is easiest to be done by using the shaft of an 9mm drill bit. Place the big template on the wood blank and align it by holding the drill bit shaft between the two templates. If all fits well, screw the template on the blank. You can now unscrew the small template.
+Don't unscrew the template! We first need to carefully position the big template for the inner contour. It needs to have an equal distance of 9mm to all edges of the small template. This is easiest to be done by using the shaft of a 9mm drill bit. Place the big template on the wood blank and align it by holding the drill bit shaft between the two templates. If all fits well, screw the template on the blank. You can now unscrew the small template.
 
 Set the depth stop of your router so that there will be 3mm thickness left for the bottom. Carefully route out the inner contour by removing all the material.
 
@@ -63,7 +63,7 @@ Use the printed circuit of your corne keyboard to mark the positions of the five
 
 Use the sanding paper to smooth all surfaces. Apply a finish of your liking to protect the wood. I have used bees wax.
 
-Stick some rubber feets, mount the keyboards and you are done!
+Stick some rubber feet, mount the keyboards and you are done!
 
 # Images
 
